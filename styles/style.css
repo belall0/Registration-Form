@@ -1,0 +1,11 @@
+.hidden {
+  display: none;
+}
+
+.valid {
+  border-color: #198754;
+}
+
+.invalid {
+  border-color: #dc3545;
+}
